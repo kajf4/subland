@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #f2f2f2;
+}
+
+div#header{
+  height:188px; 
+  margin:7px 0 21px 0;
+}
+
+.lgo{
+  width: 122px;
+  margin: 15px 328px;
+}
+
+div#body{
+  width: 960px;
+  height: 930px;
+  margin: 0px auto;
+  display: block;
+  background-image: linear-gradient(rgb(243, 243, 243), rgb(231, 231, 231));
+}
